@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varunkarankar32/LC_grind/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -30,19 +31,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
