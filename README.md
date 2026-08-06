@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varunkarankar32/LC_grind/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/varunkarankar32/LC_grind/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/varunkarankar32/LC_grind/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/varunkarankar32/LC_grind/tree/master/0337-house-robber-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/varunkarankar32/LC_grind/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -56,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/varunkarankar32/LC_grind/tree/master/0337-house-robber-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/varunkarankar32/LC_grind/tree/master/0337-house-robber-iii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/varunkarankar32/LC_grind/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Search
 |  |
