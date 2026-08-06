@@ -104,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/varunkarankar32/LC_grind/tree/master/1296-kth-ancestor-of-a-tree-node) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/varunkarankar32/LC_grind/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
