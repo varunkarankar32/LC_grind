@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/varunkarankar32/LC_grind/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0312-burst-balloons](https://github.com/varunkarankar32/LC_grind/tree/master/0312-burst-balloons) |
@@ -110,4 +111,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/varunkarankar32/LC_grind/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/varunkarankar32/LC_grind/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/varunkarankar32/LC_grind/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/varunkarankar32/LC_grind/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/varunkarankar32/LC_grind/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
