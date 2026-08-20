@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/varunkarankar32/LC_grind/tree/master/0141-linked-list-cycle) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varunkarankar32/LC_grind/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,5 +124,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/varunkarankar32/LC_grind/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/varunkarankar32/LC_grind/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/varunkarankar32/LC_grind/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/varunkarankar32/LC_grind/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
