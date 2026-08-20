@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/varunkarankar32/LC_grind/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/varunkarankar32/LC_grind/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -119,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/varunkarankar32/LC_grind/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/varunkarankar32/LC_grind/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
