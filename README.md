@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
 | [2479-meeting-rooms-iii](https://github.com/varunkarankar32/LC_grind/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/varunkarankar32/LC_grind/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3374-count-alternating-subarrays](https://github.com/varunkarankar32/LC_grind/tree/master/3374-count-alternating-subarrays) |
 ## Divide and Conquer
 |  |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/varunkarankar32/LC_grind/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/varunkarankar32/LC_grind/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/varunkarankar32/LC_grind/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/varunkarankar32/LC_grind/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/varunkarankar32/LC_grind/tree/master/0054-spiral-matrix) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/varunkarankar32/LC_grind/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -149,8 +153,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/varunkarankar32/LC_grind/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/varunkarankar32/LC_grind/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Union-Find
+|  |
+| ------- |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/varunkarankar32/LC_grind/tree/master/2914-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
