@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varunkarankar32/LC_grind/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/varunkarankar32/LC_grind/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/varunkarankar32/LC_grind/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/varunkarankar32/LC_grind/tree/master/0909-stone-game) |
 | [3374-count-alternating-subarrays](https://github.com/varunkarankar32/LC_grind/tree/master/3374-count-alternating-subarrays) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/varunkarankar32/LC_grind/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
