@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varunkarankar32/LC_grind/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/varunkarankar32/LC_grind/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/varunkarankar32/LC_grind/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varunkarankar32/LC_grind/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/varunkarankar32/LC_grind/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/varunkarankar32/LC_grind/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/varunkarankar32/LC_grind/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3374-count-alternating-subarrays](https://github.com/varunkarankar32/LC_grind/tree/master/3374-count-alternating-subarrays) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/varunkarankar32/LC_grind/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/varunkarankar32/LC_grind/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
