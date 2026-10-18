@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/varunkarankar32/LC_grind/tree/master/0141-linked-list-cycle) |
+| [0560-subarray-sum-equals-k](https://github.com/varunkarankar32/LC_grind/tree/master/0560-subarray-sum-equals-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
 | [2479-meeting-rooms-iii](https://github.com/varunkarankar32/LC_grind/tree/master/2479-meeting-rooms-iii) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0312-burst-balloons](https://github.com/varunkarankar32/LC_grind/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/varunkarankar32/LC_grind/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/varunkarankar32/LC_grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/varunkarankar32/LC_grind/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/varunkarankar32/LC_grind/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/varunkarankar32/LC_grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/varunkarankar32/LC_grind/tree/master/0724-find-pivot-index) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Union-Find
