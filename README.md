@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunkarankar32/LC_grind/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/varunkarankar32/LC_grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/varunkarankar32/LC_grind/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varunkarankar32/LC_grind/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varunkarankar32/LC_grind/tree/master/0053-maximum-subarray) |
 | [0312-burst-balloons](https://github.com/varunkarankar32/LC_grind/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/varunkarankar32/LC_grind/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/varunkarankar32/LC_grind/tree/master/0486-predict-the-winner) |
