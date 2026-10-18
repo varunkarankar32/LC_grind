@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/varunkarankar32/LC_grind/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0209-minimum-size-subarray-sum](https://github.com/varunkarankar32/LC_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0312-burst-balloons](https://github.com/varunkarankar32/LC_grind/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/varunkarankar32/LC_grind/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/varunkarankar32/LC_grind/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/varunkarankar32/LC_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/varunkarankar32/LC_grind/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/varunkarankar32/LC_grind/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/varunkarankar32/LC_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/varunkarankar32/LC_grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/varunkarankar32/LC_grind/tree/master/0724-find-pivot-index) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -190,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/varunkarankar32/LC_grind/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/varunkarankar32/LC_grind/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
