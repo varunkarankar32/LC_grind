@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0312-burst-balloons](https://github.com/varunkarankar32/LC_grind/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/varunkarankar32/LC_grind/tree/master/0486-predict-the-winner) |
+| [0724-find-pivot-index](https://github.com/varunkarankar32/LC_grind/tree/master/0724-find-pivot-index) |
 | [0909-stone-game](https://github.com/varunkarankar32/LC_grind/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/varunkarankar32/LC_grind/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/varunkarankar32/LC_grind/tree/master/1207-delete-nodes-and-return-forest) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/varunkarankar32/LC_grind/tree/master/0724-find-pivot-index) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/varunkarankar32/LC_grind/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Union-Find
 |  |
